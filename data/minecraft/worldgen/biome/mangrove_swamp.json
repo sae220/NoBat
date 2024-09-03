@@ -64,7 +64,6 @@
       "minecraft:ore_redstone",
       "minecraft:ore_redstone_lower",
       "minecraft:ore_diamond",
-      "minecraft:ore_diamond_medium",
       "minecraft:ore_diamond_large",
       "minecraft:ore_diamond_buried",
       "minecraft:ore_lapis",
@@ -128,7 +127,7 @@
         "type": "minecraft:skeleton",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 70
+        "weight": 100
       },
       {
         "type": "minecraft:creeper",
@@ -159,12 +158,6 @@
         "maxCount": 1,
         "minCount": 1,
         "weight": 1
-      },
-      {
-        "type": "minecraft:bogged",
-        "maxCount": 4,
-        "minCount": 4,
-        "weight": 30
       }
     ],
     "underground_water_creature": [
